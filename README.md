@@ -1,4 +1,4 @@
-# Lead Generation Form and Profit Calculator
+# Lending Lead Calculator
 
 This project is an in-house lead generation form and profit/return calculator. The form collects user input, calculates estimated profits, and generates a term-sheet PDF that is emailed to the user.
 
@@ -24,7 +24,7 @@ This project is an in-house lead generation form and profit/return calculator. T
 
     ```bash
     git clone <repository_url>
-    cd lead_generation_calculator
+    cd lending-lead-calculator
     ```
 
 2. Install dependencies:
